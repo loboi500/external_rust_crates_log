@@ -1,11 +1,3 @@
-{
-  "apex-available": [
-    "//apex_available:platform",
-    "//apex_available:anyapex"
-  ],
-  "dependencies": true,
-  "device": true,
-  "features": "std",
-  "min-sdk-version": "29",
-  "run": true
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:040f96695887a3a25bdd6b1583f4b851bc15adf9034bd12298775040041270a6
+size 198
